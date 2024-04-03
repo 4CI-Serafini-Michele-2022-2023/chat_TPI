@@ -1,5 +1,9 @@
 # DIARIO DI BORDO
 
+## [03/04/24]
+### BETA
+Apertura beta
+
 ## [27/03/24]
 ### FRONT END
 Sviluppo backbone dell'interfaccia
@@ -13,4 +17,3 @@ Sviluppo backbone dell'interfaccia
 ## link utili
 https://kr-labs.com.ua/books/Oreilly-XMPP-The-Definitive-Guide-May-2009.pdf
 
-a
